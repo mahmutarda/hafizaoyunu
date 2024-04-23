@@ -1,0 +1,7 @@
+/* Oyun tahtasını temsil eden elementin stilleri */
+#grid {
+    display: inline; /* Diğer içeriklerle yan yana görüntüle */
+    flex-wrap: wrap; /* Flex öğelerini sarmalayarak bir dizi oluştur */
+    width: 400px; /* Tahtanın genişliği */
+    height: 300px; /* Tahtanın yüksekliği */
+}
